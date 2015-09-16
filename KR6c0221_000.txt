@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說五十頌聖般若波羅蜜經
+#+DATE: 2015-08-30 19:46:58.012338
+#+PROPERTY: JUAN 0
