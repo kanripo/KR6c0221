@@ -1,30 +1,28 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:57.821436
+#+DATE: 2015-08-30 19:46:59.121484
 #+TITLE: 佛說五十頌聖般若波羅蜜經
 #+PROPERTY: CBETA_ID T08n0248
 #+PROPERTY: ID KR6c0221
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 248
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6c0221_T_000-0845c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0221_T_001-0845c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.248¶
-
- 《佛說五十頌聖般若波羅蜜經》¶
+No. 248¶
+《佛說五十頌聖般若波羅蜜經》¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳法大師臣施護奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚卿傳法法大師臣施護奉　詔譯¶
 
 如是我聞：
 
 一時佛在王舍城鷲峯山中，與大¶
 苾芻眾千二百五十人俱——皆得阿羅漢，諸漏¶
 已盡無復煩惱；心善解脫，通達智慧；如大龍¶
-王，斷諸有結去除重擔；所作已辦，逮得己利¶
+王，斷諸有結去除重擔；所作已辦，逮得已利¶
 心得自在。¶
 
 爾時，佛告尊者須菩提：「若有善男子、善女人
