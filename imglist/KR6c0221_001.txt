@@ -1,0 +1,4 @@
+001-0846a11	TKD 34-0221b	buddhist/K-koreana/34-tif/0200-0299/34_0221_B.TIF
+001-0846b02	TKD 34-0221c	buddhist/K-koreana/34-tif/0200-0299/34_0221_C.TIF
+001-0846a00	T 001-0846a	buddhist/T-taisho/T08/08/T08-0846.png
+001-0846b00	T 001-0846b	buddhist/T-taisho/T08/08/T08-0846.png
